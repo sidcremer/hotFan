@@ -2,7 +2,6 @@ import sys, os, unittest
 sys.path.append('/home/pi/hotFan/hs100/hs100')
 
 from core import Core
-from optparse import OptionParser
 
 import time
 import grovepi
